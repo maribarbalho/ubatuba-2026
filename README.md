@@ -11,4 +11,4 @@ URL prevista após ativação: https://maribarbalho.github.io/ubatuba-2026/
 Esta versão online tem imagens ilustrativas na galeria. O pacote ZIP fornecido na conversa inclui as nove fotos reais e um index.html atualizado. Envie index.html e a pasta assets para a raiz do repositório para publicar a galeria completa.
 
 ## Divisão
-Aluguel entre sete participantes. Gasolina e pedágio do Onix divididos entre cinco participantes. Valores são estimativas.
+Aluguel entre sete participantes. Gasolina e pedágio do Carro 1 divididos entre cinco participantes. Valores são estimativas.
